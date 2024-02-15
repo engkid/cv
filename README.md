@@ -14,8 +14,8 @@ Biggest telecommunication gadget retailer in Indonesia with known brands such as
   - Maintaining iOS mobile engineer's productivity
   - Took part of Eraspace Mobile app architecture development using clean architecture
   - Involved in technical assessment process of product requirement
-  - Decide and implement on technical aspects of eraspace iOS app
-  - **_Technologies used:_** RxSwift, Cocoapods, Modular architecture, Swift, Fastlane.
+  - Decide and implement on technical aspects of eraspace iOS app <br>
+**_Technologies used:_** RxSwift, Cocoapods, Modular architecture, Swift, Fastlane.
 <br><br>
 
 **Engineering Manager (Charity Squad)** @ [Kitabisa](https://apps.apple.com/id/app/kitabisa-donasi-zakat-wakaf/id1458307938) _(Sep 2020 - Jul 2023)_ <br>
@@ -45,8 +45,8 @@ The biggest online crowdfunding platform in Indonesia.
   - Initiate and led saling jaga's membership feature.
   - Wrote unit tests for saling jaga.
   - Led and introduced code style standard guidelines documentation.
-  - Conduct feature based sharing session monthly.
-  - **_Technologies used:_** Swift, TCA, VIPER, Cocoapods, SPM, Modular architecture, Swift, Fastlane.
+  - Conduct feature based sharing session monthly. <br><br>
+**_Technologies used:_** Swift, TCA, VIPER, Cocoapods, SPM, Modular architecture, Swift, Fastlane.
   <br><br>
 
 **iOS Engineer** @ [Mitrais](https://www.mitrais.com/) _(Sep 2018 - Oct 2020)_ <br>
@@ -54,8 +54,8 @@ A trusted software consultant firm with over 33 years of establishment.
   - Worked on-site with engineers from company's client.
   - Contribute as a coder for company's client.
   - Led a team focusing on promotional stream product.
-  - Led client's SDK Development for it's merchant build by Objective-C.
-  - **_Technologies used:_** RxSwift, MVVM-C, Texture, Carthage, Objective-C, Swift, Fastlane.
+  - Led client's SDK Development for it's merchant build by Objective-C. <br><br>
+**_Technologies used:_** RxSwift, MVVM-C, Texture, Carthage, Objective-C, Swift, Fastlane.
   <br><br>
 
 **iOS Engineer** @ [Loket](https://apps.apple.com/id/app/loket-x/id6470000434) _(Feb 2018 - Aug 2018)_ <br>
@@ -65,14 +65,15 @@ _iOS Engineer (GO-TIX App)_
   - Responsible in maintaining and developing GO-TIX app.
   - Contribute and implement Gojek's internal library for GO-TIX.
   - Migrated GO-TIX architecture from MVVM to VIPER.
-  - Take part in product development technical feedbacks for iOS.
-  - **_Technologies used:_** Swift, VIPER, Cocoapods, Swift, Fastlane.
+  - Take part in product development technical feedbacks for iOS. <br><br>
+**_Technologies used:_** Swift, VIPER, Cocoapods, Swift, Fastlane.
 <br><br>
     
 **Junior iOS Engineer** @ _Paybill Indonesia (Closed)_ _(Oct 2016 - Jan 2018)_ <br>
 Fintech app to pay various monthly bills integrated with payment gateway.
-- Responsible in development of Paybill iOS mobile app.
-- Responsible on Paybill's iOS app releases.
+  - Responsible in development of Paybill iOS mobile app.
+  - Responsible on Paybill's iOS app releases. <br><br>
+**_Technologies used:_** Swift, MVC, Cocoapods
 
 ## 💬 Languages
 
