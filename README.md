@@ -1,6 +1,26 @@
 # Engkit Satia Riswara
 
-_Software engineer based in Bandung 🇮🇩_ <br>
+**_Software engineer based in Bandung 🇮🇩_** <br><br>
+I am a collaborative engineer with a passion for iOS
+development and a deep curiosity for the latest
+technologies in the field. With six years of experience,
+I have honed my skills and expertise in iOS
+fundamentals, backed by a strong knowledge of Swift
+and Objective-C.
+Throughout my career, I have actively engaged in
+discussions and knowledge sharing with fellow
+developers. I value collaboration and believe that open
+dialogue leads to the best solutions. Whether it's
+brainstorming ideas or troubleshooting complex
+issues, I am always ready to contribute and learn from
+my peers.
+I have worked with various iOS Apps architecture. This
+versatility allows me to select the most appropriate
+architecture for each project, ensuring scalability,
+maintainability, and code organization.
+I look forward to contributing my skills and expertise
+to a team that values innovation, growth, and creating
+exceptional iOS experiences.
 
 [Email](mailto:engkidsr@gmail.com) / [LinkedIn](https://www.linkedin.com/in/engkit-satia-riswara-11a669131/) / [GitHub](https://github.com/engkid/)
 
